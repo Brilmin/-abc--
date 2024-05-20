@@ -5,8 +5,7 @@
 
 ## 📞Contact
 * Email : wlsvstizm@gmail.com
-* GigHub : https://github.com/Brilmin (간단한 홈화면 무언가를 넣어야할듯함)
-* 이력서 : 
+* GigHub : https://github.com/Brilmin
 
 </br>
 
