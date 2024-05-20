@@ -23,4 +23,4 @@
 > - 개발 기간 : 24.05.20 ~
 > - 개발 인원 : 개인
 > - 기술 스택
-> JAVA, GRADLE, MYSQL, SPRING SECURITY, SPRING BOOT, OAuth,Jpa
+>   Java, Gradle, Doker, MYSQL, SPRING SECURITY, SPRING BOOT,  OAuth, Jpa
