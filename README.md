@@ -16,7 +16,6 @@
 > - 기술 스택
 > JAVA, GRADLE, MYSQL, SPRING SECURITY, SPRING BOOT, JWT, AWS EC2, AWS RDS
 > - [MeetU Repository 이동](https://github.com/Brilmin/abc01-MeetU)
-![image](https://github.com/Brilmin/Portfolio/assets/118905157/25084168-d708-4c01-bd5b-4905359c9664)
 
 ### .  데이팅 앱 (진행 중)
 > - 소개 : 이성 친구를 소개 해 주는 서비스
